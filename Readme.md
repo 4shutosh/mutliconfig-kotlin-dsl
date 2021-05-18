@@ -37,5 +37,7 @@ A feature or android library cannot be added as a configuration.(not sure, doesn
 Hurray!, new app configuration is created. 
 Find you new configuration on the dropdown.
 
+In short, use of Kotlin DSL does not change the configuration process in the Android Studio.
+
 
 
